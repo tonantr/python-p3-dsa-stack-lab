@@ -1,6 +1,6 @@
 # Stack Lab
 
-## Learning Goals
+## Learning Goals...
 
 - Implement a `Stack` using a list as the underlying data structure.
 
